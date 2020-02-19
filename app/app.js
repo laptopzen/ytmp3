@@ -1,0 +1,1 @@
+$('.bagian div').css('height', $(window).height() / 2)
